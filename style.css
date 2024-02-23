@@ -1,0 +1,510 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 1.5em 0;
+}
+
+nav {
+    background-color: gray;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #4d7740;
+}
+
+section {
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+h2 {
+    color: #5e8e3e;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.product {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+.product:hover {
+    transform: scale(1.05);
+}
+
+footer {
+
+    background-color: #1e1e1e;
+    color: #fff;
+   
+    padding: 1.5em 0;
+}
+.btnnnn{
+    background-color: rgb(12, 17, 17);
+    color: #fff;
+}
+
+
+
+sectionn{
+    padding: 30px;
+    text-align: center;
+}
+
+.shopping{
+    display: flex;
+    align-items: center;
+   
+    justify-content: space-between;
+  
+    flex-wrap: wrap;
+
+    padding-left: 40px;
+
+   
+    
+}
+
+
+
+.card1{
+    background-size: cover;
+    margin-left: 50px;
+}
+
+
+
+div.container-fluid{
+
+    background-color: rgb(33, 30, 30);
+    color: white;
+    
+}
+nav.navbar.navbar-expand-lg bg-body-tertiary{
+    background-color: rgb(170, 43, 43);
+    color: rgb(56, 107, 107);
+    padding: 0%;
+    
+   
+}
+a.navbar-brand{
+    color: white;
+}
+a.nav-link {
+    color: white;
+    padding-left: 5px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+.btn{
+    background-color: white;
+}
+a.nav-linkk{
+    color: white;
+    margin-top: 25px;
+   
+}
+button.btn.btn-outline-success{
+    background-color: rgb(234, 234, 53);
+    color: white;
+}
+
+
+
+.whole{
+   
+    width: 500px;
+   
+    align-items: center;
+
+}
+sectionn{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.services{
+    font-style: italic;
+   
+
+}
+.infinity{
+    background-color:rgb(255, 255, 255)
+}
+.card2{
+    background-size:cover ;
+   
+}
+
+input.form-control.me-2{
+   margin-right: 4000px;
+   padding-right: 400px;
+ 
+}
+
+.card3{
+    background-size: cover;
+    
+    margin-right: 60px;
+   
+
+}
+img.card-img-top{
+    width : 320px;
+    height:179.79px;
+    border-style: solid;
+    background-size: cover;
+}
+
+div.card-body1{
+    width: 720px;
+    height :662.4px;
+}
+
+div.card-text1{
+    height: 76.84px;
+    background-color: white;
+}
+
+p.card-text3{
+    width:320px;
+}
+
+div.shopping main2{
+    display: flex;
+    align-items: center;
+   
+    justify-content: space-between;
+  
+    flex-wrap: wrap;
+
+    padding-left: 40px;
+}
+
+.card4{
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+.card5{
+    margin-top: 20px ;
+    margin-right: 70px;
+}
+
+h2{
+    margin-left: 90px;
+}
+
+b{
+    color:  rgb(234, 234, 53);
+}
+b.secondary{
+    color: black;
+}
+
+div.badacontainer{
+    height : 500px;
+    width : 100%;
+    background-size: cover;
+   
+}
+
+img{
+    height: 500px;
+    width:1500px;
+    background-size: cover;
+    padding-bottom: 55px;
+}
+
+
+h1.texture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+b.texture2{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+p.lining{
+    background-color: rgb(70, 67, 67);
+    color: #fff;
+    margin-top:15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  
+   
+
+}
+.allbefore{
+    background-color: rgb(70, 67, 67);
+}
+
+.all{
+    background-color:  rgb(70, 67, 67);
+}
+
+nav.navbar.navbar-expand-lg.bg-body-tertiary{
+    background-color: #1e1e1e;
+    padding-top: -50px;
+}
+.black{
+    background-color: #1e1e1e;
+}
+
+b.servieclass{
+    color: #1e1e1e;
+}
+
+div.chotacontainer{
+    height : 600px;
+    width : 100%;
+    background-size: cover;
+
+}
+.signin{
+    height: 117px;
+    width:100%;
+    background-color: #1e1e1e;
+}
+a.signintext{
+    color: azure;
+
+   
+   
+}
+div.signin{
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
+    width: 1550px;
+    height: 670px;
+
+}
+
+
+
+img.signinimg{
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
+    width: 1550px;
+    height: 670px;
+}
+a.textsign{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+
+div.footerall{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+div.footerlist2{
+    margin-left: 150px;
+}
+
+div.footerlist3{
+
+    margin-left: 150px;
+
+}
+
+ul.lists{
+    margin-top: 10%;
+}
+h6.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img.signinimg{
+    padding-top: 1px;
+}
+
+div.link{
+    height:100px;
+    width:100%;
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+a.mainlink{
+    margin:3%;
+}
+img.card-img-top{
+    background-color: #333;
+    height: 100%px;
+    width:100%;
+    padding: 0px;
+    
+}
+
+h1.service1{
+    color: rgb(18, 19, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: lig;
+}
+
+/* Responsiveness */
+
+ img.card-img-top{
+   
+    transition: all 0.5s ease-in;
+}
+img.card-img-top::shadow{
+    transition: ease-in;
+}
+
+
+div.infinity{
+ background: linear-gradient(to right,
+ rgb(210, 207, 7),rgb(255, 255, 145),white);
+}
+
+div.all{
+    background: linear-gradient(to right,
+    rgb(210, 207, 7),rgb(255, 255, 145),white);
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary{
+    padding: 0px;
+}
+
+div.card-body{
+    padding: 0px;
+}
+
+h5.card-title{
+    margin:0px;
+}
+div.row.row-cols-1.row-cols-md-2.g-4{
+    margin: 0px;
+
+}
+h5.poster{
+    color: yellow;
+}
+
+h6.last{
+    color: yellow;
+}
+        h2.featured{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        h1.services{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-left: 90px;
+
+        }
+        h5.services{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-left: 90px;
+        }
+
+        div.container-fluid{
+            width:100%;
+        }
+        a.signuplink{
+            color: yellow;
+        }
+
+      /*  img.signin{
+            background: image("vik2.jpg");
+            background-size: cover;
+            height: 500px;
+            width: 100%;
+        }
+        */
+        h5.card-title{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        div.stickers{
+           height: 100px; 
+           width: 500px;;
+           display: flex;
+         
+           justify-content: space-around;
+         padding-top: 30px;
+           
+        }
+      marquee{
+       
+        width:100%;
+        background-color: #1e1e1e;
+        color: #fff;
+        padding: 2%;
+        font-size: 22px;
+       font-style: italic;
+       font-weight: 500;
+      }
+      img.d-block.w-100{
+        padding: 0px;
+      }
+        
